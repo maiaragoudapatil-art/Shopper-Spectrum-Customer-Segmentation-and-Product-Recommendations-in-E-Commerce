@@ -1,5 +1,14 @@
 streamlit
-scikit-learn
 pandas
 numpy
-pickle5
+matplotlib
+seaborn
+plotly
+scikit-learn
+scipy
+joblib
+openpyxl
+Pillow
+networkx
+streamlit-option-menu
+streamlit-extras
